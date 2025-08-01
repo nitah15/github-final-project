@@ -1,3 +1,6 @@
+#This repository contains the final project submission for the Coursera course on Git and GitHub. The project is a basic calculator
+that computes Simple Interest based on the user-provided inputs: principal amount, annual interest rate, and time period (in years).
+
 # github-final-project
 Github final project submission
 
@@ -9,9 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 
-
-#This repository contains the final project submission for the Coursera course on Git and GitHub. The project is a basic calculator
-that computes Simple Interest based on the user-provided inputs: principal amount, annual interest rate, and time period (in years).
 
 This simple interest calculator performs the following computation: simple interest = p*t*r
 
